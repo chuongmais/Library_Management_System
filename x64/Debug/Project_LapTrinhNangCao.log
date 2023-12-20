@@ -1,0 +1,17 @@
+﻿  Address.cpp
+  Author.cpp
+  Book.cpp
+  Date.cpp
+  Employee.cpp
+  Genre.cpp
+  Library.cpp
+  Member.cpp
+  Menu.cpp
+  Project_LapTrinhNangCao.cpp
+  Publisher.cpp
+  Transaction.cpp
+  Generating Code...
+C:\Users\KhanhPham\Documents\Zalo Received Files\Project_LapTrinhNangCao\Library.cpp(78): warning C4715: 'Library::findBook': not all control paths return a value
+C:\Users\KhanhPham\Documents\Zalo Received Files\Project_LapTrinhNangCao\Library.cpp(284): warning C4715: 'Library::findMember': not all control paths return a value
+  LINK : C:\Users\KhanhPham\Documents\Zalo Received Files\Project_LapTrinhNangCao\x64\Debug\Project_LapTrinhNangCao.exe not found or not built by the last incremental link; performing full link
+  Project_LapTrinhNangCao.vcxproj -> C:\Users\KhanhPham\Documents\Zalo Received Files\Project_LapTrinhNangCao\x64\Debug\Project_LapTrinhNangCao.exe
